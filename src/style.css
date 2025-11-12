@@ -2,4 +2,49 @@
 
 body{
     background: white;
+    
 }
+
+#contenedorPrincipal {
+    width: 400px;
+    height: 600px;
+    background-color: beige;
+    border-radius: 3%;
+    margin:auto;
+    margin-top: 90px;
+    margin-bottom: 20px;   
+    display: flex;
+    justify-content: space-between;
+}
+
+#paloTop {
+    font-size: 100px;
+    padding: 5px;
+    
+}
+
+#valor {
+    font-size: 150px;
+
+  align-content: center;
+    
+}
+
+#paloBottom {
+    font-size: 100px;
+    padding: 5px;
+    align-content: end;
+}
+
+#divDelBoton {
+    display:flex;
+    justify-content: center;
+    
+}
+
+#divDelBoton2 {
+    display:flex;
+    justify-content: center;
+    
+}
+
